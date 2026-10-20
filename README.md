@@ -1,4 +1,4 @@
-# DeepInf[**everything**](https://github.com/LancerLSY/deepinfer-everything/tree/main)
+# DeepInfer Everything
 
 做科研一定要快
 
